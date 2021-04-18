@@ -1,5 +1,5 @@
 <?php
 
-print 'Hello Welcome to OCP';
+print 'Hello Welcome to Openshift Page';
 
 ?>
